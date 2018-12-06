@@ -1,7 +1,7 @@
 # udacity-pytorch-scholarship-from-facebook
 [Udacity PyTorch Scholarship Challenge from Facebook](https://www.udacity.com/facebook-pytorch-scholarship) summary note 입니다.
 - [course page](https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home?authuser=0)
-- [Resource Library](https://airtable.com/shr4boj6fLPU1uawE/tblUf4zxlIMLjwrbv)
+- [Resource Library](https://airtable.com/shr4boj6fLPU1uawE/tblUf4zxlIMLjwrbv)    
 These notes were written in Markdown with Latex formulae. The formulae are converted to images by TeXify. 
 
 ## Contributor
